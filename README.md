@@ -4,19 +4,17 @@ This Python program enables the validation of a Sudoku puzzle by performing vari
 
 Key Features:
 
-Readable puzzle display
-Rule adherence check for sections, rows, and columns
-Error detection and explanation
-Incompleteness detection based on zero presence
+- Readable puzzle display
+- Rule adherence check for sections, rows, and columns
+- Error detection and explanation
+- Incompleteness detection based on zero presence
 
 Usage:
 
-Provide a Sudoku puzzle as input.
-The program will display the puzzle in a readable format.
-It will validate each section, row, and column against the game's rules.
-Any errors found will be displayed along with the reason for their invalidity.
-The program will determine if the puzzle is incomplete based on the presence of zeroes.
+- Provide a Sudoku puzzle as input.
+- The program will display the puzzle in a readable format.
+- It will validate each section, row, and column against the game's rules.
+- Any errors found will be displayed along with the reason for their invalidity.
+- The program will determine if the puzzle is incomplete based on the presence of zeroes.
 
 Note: This program requires Python to be installed.
-
-Get started with Sudoku validation and error detection by running this program!
