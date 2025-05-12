@@ -1,4 +1,4 @@
-# SudokuChecker
+# Sudoku Checker
 
 This Python program enables the validation of a Sudoku puzzle by performing various checks on its sections, rows, and columns. It provides functionality to display the puzzle in a readable format and identifies any errors, clearly stating the reasons for their invalidity. An additional feature of this program is the ability to determine if the puzzle is incomplete, which is defined as having any cells containing zeroes.
 
